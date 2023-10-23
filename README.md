@@ -1,4 +1,4 @@
-# EXP02-Implement-Depth-First-Search-Traversal-of-a-Graph
+# EXP02-Implement Breadth First Search Traversal of a Graph
 
 #### NAME: Aashima Nazreen Sayeed S
 #### REG NO: 212221240002
